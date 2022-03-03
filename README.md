@@ -2,4 +2,4 @@
 
 ## Movie application using: React.js, APIs, CSS
 
-<img width="1263" alt="movie_app 4501b9c5b97fa6c01981" src="https://user-images.githubusercontent.com/68688135/147365693-99c8993d-0561-4b2f-a0aa-938866b95b51.png">
+<img width="1275" alt="Screenshot 2022-03-03 at 14 04 27" src="https://user-images.githubusercontent.com/68688135/156570373-e6621778-ad96-4be5-a32e-b154a146d4f2.png">
